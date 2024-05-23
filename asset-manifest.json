@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/floqer-assignment/static/css/main.4152c3d3.css",
+    "main.js": "/floqer-assignment/static/js/main.27b8d557.js",
+    "index.html": "/floqer-assignment/index.html",
+    "main.4152c3d3.css.map": "/floqer-assignment/static/css/main.4152c3d3.css.map",
+    "main.27b8d557.js.map": "/floqer-assignment/static/js/main.27b8d557.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4152c3d3.css",
+    "static/js/main.27b8d557.js"
+  ]
+}
